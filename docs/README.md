@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e20-co542-Automatic-English-Text-Summarizer
-title: Automatic English Text Summarizer
+repository-name: e20-co542-Automatic-English-Text-Summarization
+title: Automatic English Text Summarization Using Neural Networks
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
