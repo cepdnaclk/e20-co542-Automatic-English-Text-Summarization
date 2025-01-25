@@ -1,7 +1,7 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Neural Network based automatic English text summarization system
 ___
 
-## Please refer the instructions in below URL:
+## Introduction
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+Automatic text summarization refers to the process of converting a lengthy text to a precise and fluent summary while preserving the overall meaning and highlighting the significant points of the original text. There are two approaches in text summarization as Extractive summarization Abstractive and summarization. Here we focus on implementing an Abstractive summarizer using Neural Networks.
