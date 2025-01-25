@@ -1,5 +1,5 @@
 ___
-# Neural Network based automatic English text summarization system
+# Neural Network Based Automatic English Text Summarization System
 ___
 
 ## Introduction
